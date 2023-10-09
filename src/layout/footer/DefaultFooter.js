@@ -122,7 +122,7 @@ const DefaultFooter = () => {
                 </ul>
                 <ul className="list-style-two wow fadeInUp delay-0-4s animated">
                   <li>
-                    <Link legacyBehavior href="index">
+                    <Link legacyBehavior href="service-details">
                       Web Development
                     </Link>
                   </li>
