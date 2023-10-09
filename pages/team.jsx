@@ -129,7 +129,7 @@ const Team = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-member style-two wow fadeInUp delay-0-4s">
                 <div className="image benzy-color">
-                  <img src="assets/images/team/benzy_.png" alt="Team Member" />
+                  <img src="assets/images/team/benzy.png" alt="Team Member" />
                 </div>
                 <div className="content">
                   <h4>Benzy Aman</h4>
@@ -168,10 +168,7 @@ const Team = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-member style-two wow fadeInUp delay-0-6s">
                 <div className="image kenan-color">
-                  <img
-                    src="assets/images/team/kenan (1).png"
-                    alt="Team Member"
-                  />
+                  <img src="assets/images/team/kenan.png" alt="Team Member" />
                 </div>
                 <div className="content">
                   <h4>Kenan Alzaidi</h4>

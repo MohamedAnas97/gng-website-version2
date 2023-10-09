@@ -204,10 +204,7 @@ const Index = () => {
             </div>
             <div className="col-xl-6">
               <div className="what-we-do-image mb-55 wow fadeInRight delay-0-2s">
-                <img
-                  src="assets/images/services/11.png"
-                  alt="What We Do"
-                />
+                <img src="assets/images/services/11.png" alt="What We Do" />
               </div>
             </div>
           </div>
@@ -563,7 +560,7 @@ const Index = () => {
             <div className="col">
               <div className="team-member wow fadeInUp delay-0-3s">
                 <div className="image benzy-color">
-                  <img src="assets/images/team/benzy_.png" alt="Team Member" />
+                  <img src="assets/images/team/benzy.png" alt="Team Member" />
                 </div>
                 <div className="content">
                   <h4>Benzy Aman</h4>
@@ -601,10 +598,7 @@ const Index = () => {
             <div className="col">
               <div className="team-member wow fadeInUp delay-0-5s">
                 <div className="image kenan-color">
-                  <img
-                    src="assets/images/team/kenan (1).png"
-                    alt="Team Member"
-                  />
+                  <img src="assets/images/team/kenan.png" alt="Team Member" />
                 </div>
                 <div className="content">
                   <h4>Kenan Alzaidi</h4>

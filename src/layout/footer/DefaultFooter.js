@@ -27,46 +27,26 @@ const DefaultFooter = () => {
             <div className="col-lg-8 text-lg-end">
               <div className="social-style-four mb-20 wow fadeInLeft delay-0-2s animated">
                 <a
-                  className="hover"
-                  onClick={() => {
-                    window.open(
-                      "https://www.facebook.com/profile.php?id=100091663875681",
-                      "_blank"
-                    );
-                  }}
+                  href="https://www.facebook.com/profile.php?id=100091663875681"
+                  target="_blank"
                 >
                   <i className="fab fa-facebook-f" /> <span>Facebook</span>
                 </a>
                 <a
-                  className="hover"
-                  onClick={() => {
-                    window.open(
-                      "https://www.linkedin.com/company/g-g-innovations/",
-                      "_blank"
-                    );
-                  }}
+                  href="https://www.linkedin.com/company/g-g-innovations/"
+                  target="_blank"
                 >
                   <i className="fab fa-linkedin-in" /> <span>Linkedin</span>
                 </a>
                 <a
-                  className="hover"
-                  onClick={() => {
-                    window.open(
-                      "https://www.instagram.com/gnginnovations/",
-                      "_blank"
-                    );
-                  }}
+                  href="https://www.instagram.com/gnginnovations/"
+                  target="_blank"
                 >
                   <i className="fab fa-instagram" /> <span>Instagram</span>
                 </a>
                 <a
-                  className="hover"
-                  onClick={() => {
-                    window.open(
-                      "https://www.youtube.com/channel/UCZ8YJt8gCmvVIt7-IZtRevQ",
-                      "_blank"
-                    );
-                  }}
+                  href="https://www.youtube.com/channel/UCZ8YJt8gCmvVIt7-IZtRevQ"
+                  target="_blank"
                 >
                   <i className="fab fa-youtube" /> <span>Youtube</span>
                 </a>

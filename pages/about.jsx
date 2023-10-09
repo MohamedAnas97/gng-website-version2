@@ -300,7 +300,7 @@ const About = () => {
             <div className="col">
               <div className="team-member wow fadeInUp delay-0-3s">
                 <div className="image benzy-color">
-                  <img src="assets/images/team/benzy_.png" alt="Team Member" />
+                  <img src="assets/images/team/benzy.png" alt="Team Member" />
                 </div>
                 <div className="content">
                   <h4>Benzy Aman</h4>
@@ -339,7 +339,7 @@ const About = () => {
               <div className="team-member wow fadeInUp delay-0-2s">
                 <div className="image kenan-color">
                   <img
-                    src="assets/images/team/kenan (1).png"
+                    src="assets/images/team/kenan.png"
                     alt="Team Member"
                   />
                 </div>
