@@ -189,6 +189,7 @@ const Contact = () => {
       <div className="contact-page-map mb-120 rpb-90 wow fadeInUp delay-0-2s">
         <div className="container-fluid">
           <div className="our-location">
+          {/* https://www.google.com/maps/embed/v1/place?key=AIzaSyALX8uKIbMmZb4y8W8PY6uTKcOq6G6rauc&q=25.099002,55.177773&zoom=18 */}
             <iframe
               src="https://maps.app.goo.gl/2W8uBrT39heuUeMg9"
               style={{ border: 0, width: "100%" }}
