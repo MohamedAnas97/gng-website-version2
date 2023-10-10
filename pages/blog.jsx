@@ -16,7 +16,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/ai.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -25,21 +25,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Artificial Intelligence: Where is the Driving Force of
                       Technology taking us?
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/*                  <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -47,7 +47,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/wf.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -56,18 +56,20 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>Web 3.0: Is the Future Already Here? A Closer Look</a>
-                  </Link>
+                  {/* <Link legacyBehavior href="/blog-details"> */}
+                  {/* <a> */}
+                  Web 3.0: Is the Future Already Here? A Closer Look
+                  {/* </a> */}
+                  {/* </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -75,7 +77,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/ba.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -84,21 +86,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Building an Avatar: Everything You’ll Need to Deep Dive
                       into The Metaverse
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -106,7 +108,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/arvr.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -115,21 +117,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       AR and VR: The Future of E-commerce, Education and
                       E-governance
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -137,7 +139,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/wb.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -146,21 +148,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Web3.0 & Blockchain Integration: The Pathway to a
                       Decentralised Web
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -168,7 +170,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/VS.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -177,18 +179,20 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>Voice Skills For Google Assistant And Amazon Alexa</a>
-                  </Link>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
+                      Voice Skills For Google Assistant And Amazon Alexa
+                      {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -196,7 +200,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/co.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -205,20 +209,20 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Creating Online Environments The Work Well For Older User
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -226,7 +230,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/ID.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -235,21 +239,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Inclusive Design And Accessibility Live Stream Heydon
                       Pickering
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
             <div className="col-xl-4 col-md-6">
@@ -257,7 +261,7 @@ const Blog = () => {
                 <div className="image">
                   <img src="assets/images/blog/TC.png" alt="Blog" />
                 </div>
-                <ul className="blog-meta">
+                {/* <ul className="blog-meta">
                   <li>
                     <i className="far fa-calendar-alt" />
                     <a href="#">February 18, 2023</a>
@@ -266,21 +270,21 @@ const Blog = () => {
                     <i className="far fa-comments" />
                     <a href="#">Comment (5)</a>
                   </li>
-                </ul>
+                </ul> */}
                 <hr />
                 <h4>
-                  <Link legacyBehavior href="/blog-details">
-                    <a>
+                  {/* <Link legacyBehavior href="/blog-details">
+                    <a> */}
                       Tips Conducting Usability Studies With Participants
                       Disabilities
-                    </a>
-                  </Link>
+                    {/* </a>
+                  </Link> */}
                 </h4>
-                <Link legacyBehavior href="/blog-details">
+                {/* <Link legacyBehavior href="/blog-details">
                   <a className="read-more">
                     Read More <i className="far fa-arrow-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
 

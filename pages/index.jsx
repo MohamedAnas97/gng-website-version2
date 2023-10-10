@@ -1,5 +1,7 @@
+"use client";
 import dynamic from "next/dynamic";
-
+import ReactPlayer from "react-player";
+// import Video from "../public/assets/images/video/home.mp4";
 const Counter = dynamic(() => import("@/src/components/Counter"), {
   ssr: false,
 });
@@ -9,6 +11,14 @@ import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const Index = () => {
+  // const [hasWindow, setHasWindow] = useState(false);
+  // useEffect(() => {
+  //   if (typeof window !== "undefined") {
+  //     setHasWindow(true);
+  //   }
+  // }, []);
+  const video =
+    "https://res.cloudinary.com/dn1rcvm1v/video/upload/v1685003666/home_szzjqt.mp4";
   return (
     <Layout>
       {/* Hero Section Start */}
@@ -31,7 +41,16 @@ const Index = () => {
         </div>
         <div className="container-fluid">
           <div className="hero-bottom-image">
-            <img src="assets/images/hero/hero.jpg" alt="Hero" />
+            <ReactPlayer
+              url={video}
+              controls={false}
+              loop
+              playing
+              playsinline={true}
+              muted={true}
+              className="video-container"
+            />
+            {/* <img src="assets/images/hero/hero.jpg" alt="Hero" /> */}
             <div className="hero-social">
               <a
                 className="hover"

@@ -158,22 +158,22 @@ const DefaultFooter = () => {
                 <ul>
                   <li>
                     <Link legacyBehavior href="/about">
-                      <a>About</a>
+                      <a>About Us</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="services">
-                      Services
+                      Privacy Policy
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="/faqs">
-                      <a>FAQs</a>
+                      <a>Portfolio</a>
                     </Link>
                   </li>
                   <li>
                     <Link legacyBehavior href="services">
-                      How IT Works
+                      Google Maps
                     </Link>
                   </li>
                 </ul>

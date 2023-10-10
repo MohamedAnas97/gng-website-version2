@@ -136,3 +136,8 @@
 .vr {
   height: 60px;
 }
+/* homepage video container css */
+.video-container {
+  width: 100% !important;
+  height: 100% !important;
+}
